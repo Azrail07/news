@@ -1,0 +1,2 @@
+# news
+laravel project news
